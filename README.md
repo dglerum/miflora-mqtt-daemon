@@ -65,7 +65,7 @@ The following example shows the installation under Debian/Raspbian below the `/o
 ```shell
 sudo apt install git python3 python3-pip bluetooth bluez
 
-git clone https://github.com/ThomDietrich/miflora-mqtt-daemon.git /opt/miflora-mqtt-daemon
+git clone https://github.com/dglerum/miflora-mqtt-daemon.git /opt/miflora-mqtt-daemon
 
 cd /opt/miflora-mqtt-daemon
 sudo pip3 install -r requirements.txt
